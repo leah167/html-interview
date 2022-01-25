@@ -1,0 +1,29 @@
+div {
+    border-color: blue;
+    border-style: solid;
+    width: 350px;
+    height: auto;
+    padding: 25px; /* Padding is used to create space around an element's content, inside of any defined borders. */
+    
+
+
+}
+
+img {
+    border-style: solid;
+    border-radius: 50px;
+}
+
+li {
+    margin: 10px;
+    font-style: italic;
+
+}
+
+body {
+    background-image: url('https://images.pexels.com/photos/1939485/pexels-photo-1939485.jpeg?cs=srgb&d1=pexels-henry-%26-co-1939485.jpg&fm=jpg');
+}
+
+h1, h1, h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
